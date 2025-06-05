@@ -1,0 +1,11 @@
+{
+  "name": "auto-daily-swap-0G-V3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2"
+  }
+}
